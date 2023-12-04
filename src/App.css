@@ -2,7 +2,7 @@
   /* text-align: center; */
   background-color: #282c34;
   color: white;
-  min-height: 910vh;
+  min-height: 380vh;
 }
 
 .App-detalhes {
@@ -119,7 +119,7 @@ h1 {
     /* text-align: center; */
     background-color: #282c34;
     color: white;
-    min-height: 910vh;
+    min-height: 340vh;
   }
 
   .App-detalhes {
@@ -239,7 +239,7 @@ h1 {
     /* text-align: center; */
     background-color: #282c34;
     color: white;
-    min-height: 910vh;
+    min-height: 640vh;
   }
 
   .App-detalhes {
